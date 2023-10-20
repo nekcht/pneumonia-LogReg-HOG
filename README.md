@@ -1,4 +1,4 @@
-# Pneumonia detection with classical ML methods
+# Pneumonia detection with classical ML methods and HOG (Histogram of Oriented Gradients) feature extraction
 <p align="justify"> Deep learning excels at learning hierarchical representations and handling large-scale data, but classical ML methods, when combined with HOG, a potent local shape and structure feature descriptor, can still deliver impressive performance for specific image recognition tasks. </p>
 
 ![Figure_1](https://github.com/nekxt/pneumonia-LogReg-HOG/assets/129678580/57a54aad-6fa3-46e0-9b23-daabd0026e7d)
